@@ -11,7 +11,7 @@ import lombok.*;
 @Builder
 @ToString
 
-public class Student {
+public class    Student {
     @Id
     private String id;
     private String firstName;
